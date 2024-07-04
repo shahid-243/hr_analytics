@@ -1,2 +1,2 @@
 # hr_analytics
-hr analytics dashboard 
+hr analytics dashboard through microsoft power bi
